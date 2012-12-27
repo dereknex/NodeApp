@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Writing desktop applications with all node.js technologies!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derek-chen/NodeApp.git"
+  },
+  "keywords": [
+    "html",
+    "application"
+  ],
+  "engines": [
+  	"node"
+  ],
+  "author": "Derek Chen",
+  "license": "BSD"
+}
